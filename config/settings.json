@@ -1,0 +1,14 @@
+{
+  "application": {
+    "name": "Helpdesk Ticket Management System",
+    "version": "1.0.0",
+    "environment": "development"
+  },
+  "database": {
+    "path": "data/helpdesk.db"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/helpdesk.log"
+  }
+}

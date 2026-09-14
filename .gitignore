@@ -1,0 +1,35 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Runtime database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Runtime logs
+logs/*.log
+logs/*.log.*
+
+# Temporary files
+*.tmp
+*.temp
