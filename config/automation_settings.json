@@ -1,0 +1,18 @@
+{
+  "reports": {
+    "output_directory": "reports"
+  },
+  "analysis": {
+    "critical_priority": "CRITICAL",
+    "high_priority": "HIGH",
+    "active_statuses": [
+      "OPEN",
+      "IN_PROGRESS"
+    ]
+  },
+  "automation": {
+    "generate_csv_report": true,
+    "generate_json_report": true,
+    "generate_alert_report": true
+  }
+}

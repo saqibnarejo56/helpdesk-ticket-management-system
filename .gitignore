@@ -33,3 +33,10 @@ logs/*.log.*
 # Temporary files
 *.tmp
 *.temp
+# Generated automation reports
+reports/*.json
+reports/*.csv
+reports/*.txt
+
+# Automation temporary output
+reports/tmp/
